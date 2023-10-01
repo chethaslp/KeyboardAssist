@@ -1,0 +1,4 @@
+pynput
+win10toast
+swinlnk
+pyperclip
